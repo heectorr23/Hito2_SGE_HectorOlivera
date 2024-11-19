@@ -1,0 +1,3 @@
+- EXportar el archivo Excel con las consultas hechas(filtros)
+- Realizar las encuestas
+- Al realizar el gráfico  diferentes consultas
